@@ -6,8 +6,4 @@ This repository contains the papers published in the research area of non-satura
 
 [2] Zhang, Jiong, et al. "Learning long term dependencies via fourier recurrent units." International Conference on Machine Learning. PMLR, 2018.
 
-<<<<<<< HEAD
 [3] Chandar, Sarath, et al. "Towards non-saturating recurrent units for modelling long-term dependencies." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 33. No. 01. 2019.
-=======
-[3] Chandar, Sarath, et al. "Towards non-saturating recurrent units for modelling long-term dependencies." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 33. No. 01. 2019.
->>>>>>> fbd5205d10207476177d89cb934eecbfe887d9d1
